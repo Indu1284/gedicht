@@ -3,4 +3,5 @@ Rot
 Grün
 Blau
 Gelb
+Megenda
 Sind alles tolle Farben
